@@ -1,0 +1,13 @@
+BLOCKCHAIN_CRYPTO:
+  url: 'URL TO BLOCKCHAIN SYSTEM'
+  suffix_login: '/api/path_suffix'
+  suffix_nota: '/api/path_suffix'
+  suffix_logout: '/api/path_suffix'
+  suffix_search: '/api/path_suffix'
+  hash_algorithm: 'sha256'
+  username: 'USERNAME'
+  password: 'PASSWORD'
+  headers: {'accept': 'api/header',
+            'Content-Type': 'api/header'}
+  sign_passphrase: 'passphrase'
+  security_script_folder: './security_script/'
