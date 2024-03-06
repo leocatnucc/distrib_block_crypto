@@ -4,7 +4,7 @@ This repository contains the code used for the work presented in the paper "Bloc
 - Clone repository and access the repo folder
 ```
 cd distrib_block_crypto/
-```ls
+```
 
 - Install requirements:
 ```
