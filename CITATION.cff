@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Leonardo"
-  given-names: "Nucciarelli"
+- family-names: "Nucciarelli"
+  given-names: "Leonardo"
   orcid: "https://orcid.org/0009-0003-8085-1365"
-- family-names: "Benedetta"
-  given-names: "Gottardelli"
+- family-names: "Gottardelli"
+  given-names: "Benedetta"
   orcid: ""
-- family-names: "Roberto"
-  given-names: "Gatta"
+- family-names: "Gatta"
+  given-names: "Roberto"
   orcid: ""
 title: "distrib_block_crypto"
 version: 1.0.0
